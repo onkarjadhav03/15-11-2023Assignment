@@ -1,0 +1,7 @@
+D:\mphasis\dotnet\Assignment13\Assignment13\bin\Debug\Assignment13.exe.config
+D:\mphasis\dotnet\Assignment13\Assignment13\bin\Debug\Assignment13.exe
+D:\mphasis\dotnet\Assignment13\Assignment13\bin\Debug\Assignment13.pdb
+D:\mphasis\dotnet\Assignment13\Assignment13\obj\Debug\Assignment13.csproj.AssemblyReference.cache
+D:\mphasis\dotnet\Assignment13\Assignment13\obj\Debug\Assignment13.csproj.CoreCompileInputs.cache
+D:\mphasis\dotnet\Assignment13\Assignment13\obj\Debug\Assignment13.exe
+D:\mphasis\dotnet\Assignment13\Assignment13\obj\Debug\Assignment13.pdb
